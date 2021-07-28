@@ -1,3 +1,5 @@
+# Copyright(c) 2021 TECHaas.com, all rights reserved.
+#
 
 import datetime
 import hashlib

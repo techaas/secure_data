@@ -2,7 +2,7 @@
 
 共通鍵/公開鍵暗号でデータを安全に交換する実装のテストです.
 
-詳しくは、[TECHaas - セキュアなデータ交換](http://localhost:1313/post/secure-communication/) をどうぞ
+詳しくは、[TECHaas - セキュアなデータ交換](https://www.techaas.net/post/secure-communication/) をどうぞ
 
 ### 開発環境
 
